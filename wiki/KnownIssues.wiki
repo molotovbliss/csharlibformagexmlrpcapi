@@ -1,0 +1,6 @@
+== Known Issues ==
+
+If you are receiving the error about calling parameters not matching signature then your problem is most likely eAccelerator. We found that after disabling eAccelerator or adding a filter for the url '"Api/*.php"' the error goes away. Apparently eAcclerator is causing a parameter validation exception to be thrown. If eAccelerator has the API cached then the login call with throw error. Otherwise you will be able to login but the second call with throw exception. Subsequent calls will throw exceptions until eAcclerator releases it's cache.
+
+
+If you are receving a "Not Found" error and you have multiple stores then you may need to pass the store id like this: 'http://www.mymagentostore/storedirectory/<storeid>/api/xmlrpc' 
