@@ -1,0 +1,7 @@
+D:\Work\ez-llc\dotnet\Development\xml-rpc\src\obj\Release\ResolveAssemblyReference.cache
+D:\Work\ez-llc\dotnet\Development\MagentoApi\xml-rpc\src\obj\Release\ResolveAssemblyReference.cache
+D:\Work\ez-llc\dotnet\Development\MagentoApi\xml-rpc\bin\CookComputing.XmlRpcV2.dll
+D:\Work\ez-llc\dotnet\Development\MagentoApi\xml-rpc\src\obj\Release\CookComputing.XmlRpcV2.dll
+C:\Work\ez-llc\dotnet\Development\MagentoApi\xml-rpc\bin\CookComputing.XmlRpcV2.dll
+C:\Work\ez-llc\dotnet\Development\MagentoApi\xml-rpc\src\obj\Release\ResolveAssemblyReference.cache
+C:\Work\ez-llc\dotnet\Development\MagentoApi\xml-rpc\src\obj\Release\CookComputing.XmlRpcV2.dll

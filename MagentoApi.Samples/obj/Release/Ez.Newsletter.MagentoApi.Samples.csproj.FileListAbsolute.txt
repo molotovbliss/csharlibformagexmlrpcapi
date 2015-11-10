@@ -1,0 +1,16 @@
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\obj\Release\ResolveAssemblyReference.cache
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\bin\Release\CookComputing.XmlRpcV2.dll
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\bin\Release\Ez.Newsletter.MagentoApi.dll
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\bin\Release\Ez.Newsletter.MagentoApi.pdb
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\bin\Release\Ez.Newsletter.MagentoApi.Samples.exe
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\bin\Release\Ez.Newsletter.MagentoApi.Samples.pdb
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\obj\Release\Ez.Newsletter.MagentoApi.Samples.exe
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\obj\Release\Ez.Newsletter.MagentoApi.Samples.pdb
+C:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\bin\Release\Ez.Newsletter.MagentoApi.Samples.exe
+C:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\bin\Release\Ez.Newsletter.MagentoApi.Samples.pdb
+C:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\bin\Release\CookComputing.XmlRpcV2.dll
+C:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\bin\Release\Ez.Newsletter.MagentoApi.dll
+C:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\bin\Release\Ez.Newsletter.MagentoApi.pdb
+C:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\obj\Release\ResolveAssemblyReference.cache
+C:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\obj\Release\Ez.Newsletter.MagentoApi.Samples.exe
+C:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi.Samples\obj\Release\Ez.Newsletter.MagentoApi.Samples.pdb

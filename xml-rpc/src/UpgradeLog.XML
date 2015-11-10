@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="xmlrpc">
+</Property><Property Name="Solution File" Value="D:\Work\ez-llc\dotnet\Development\xml-rpc\src\xmlrpc.sln">
+</Property><Property Name="Date" Value="Thursday, March 12, 2009">
+</Property><Property Name="Time" Value="19:07 PM">
+</Property></Properties><Event ErrorLevel="0" Project="xmlrpc" Source="xmlrpc.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="xmlrpc" Source="xmlrpc.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="ntest" Source="..\ntest\ntest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ntest" Source="..\ntest\ntest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="xmlrpc.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="xmlrpc.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ntest" Source="..\ntest\ntest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

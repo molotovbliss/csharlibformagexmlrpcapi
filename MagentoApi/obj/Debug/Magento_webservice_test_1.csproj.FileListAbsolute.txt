@@ -1,0 +1,7 @@
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\bin\Debug\Magento_webservice_test_1.exe.config
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\bin\Debug\Magento_webservice_test_1.exe
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\bin\Debug\Magento_webservice_test_1.pdb
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\obj\Debug\Magento_webservice_test_1.exe
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\obj\Debug\Magento_webservice_test_1.pdb
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\bin\Debug\CookComputing.XmlRpcV2.dll

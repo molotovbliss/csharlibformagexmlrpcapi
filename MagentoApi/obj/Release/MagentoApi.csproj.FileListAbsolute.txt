@@ -1,0 +1,14 @@
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\bin\Release\MagentoApi.exe.config
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\obj\Release\ResolveAssemblyReference.cache
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\bin\Release\MagentoApi.exe
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\bin\Release\MagentoApi.pdb
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\bin\Release\CookComputing.XmlRpcV2.dll
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\obj\Release\MagentoApi.exe
+D:\Work\ez-llc\dotnet\Development\Magento_webservice_test_1\Magento_webservice_test_1\obj\Release\MagentoApi.pdb
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi\obj\Release\ResolveAssemblyReference.cache
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi\bin\Release\CookComputing.XmlRpcV2.dll
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi\bin\Release\Ez.Newsletter.MagentoApi.pdb
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi\obj\Release\Ez.Newsletter.MagentoApi.pdb
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi\bin\Release\Ez.Newsletter.MagentoApi.dll.config
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi\bin\Release\Ez.Newsletter.MagentoApi.dll
+D:\Work\ez-llc\dotnet\Development\MagentoApi\MagentoApi\obj\Release\Ez.Newsletter.MagentoApi.dll
